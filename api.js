@@ -3,7 +3,6 @@ import {getFirestore, collection, getDocs, doc, getDoc, query, where} from 'fire
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDF2uvZE0sY5_64a047zyCtMpJ07Ym_L30",
   authDomain: "playground-321f7.firebaseapp.com",
   databaseURL: "https://playground-321f7-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "playground-321f7",
